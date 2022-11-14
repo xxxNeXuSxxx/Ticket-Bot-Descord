@@ -8,9 +8,9 @@ A discord ticket bot with buttons & slash commands
 You need to have Node.JS 16+
 
 ``````bash
-git clone 
 
-npm i
+You need to download node_modules
+*npm i*
 ``````
 
 ## Configuraton
@@ -33,7 +33,7 @@ npm i
 }
 ```
 
-+ You can change category emojis in `intractionCreate.js` @ line 50.
++ You can change category emojis in `intractionCreate.js`
 + Make sure the `ticketChannel` is empty.
 
 ## Deployment
